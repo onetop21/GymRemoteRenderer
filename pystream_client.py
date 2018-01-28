@@ -1,4 +1,4 @@
-import gym, gym_gomoku, time
+import gym, time
 import numpy as np
 from pystream import RemoteRenderer
 
